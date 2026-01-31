@@ -1,10 +1,9 @@
 # BlockShield Anticheat for Hytale
 
-[![BlockShield Banner](assets/banner.png)](https://blockshield.ac)
+![BlockShield Banner](https://github.com/MarkusZSehrhart/BlockShield-Anticheat-Hytale-/raw/main/images/banner.png)
 
 ## Powerful Web Panel Showcase
 
-![BlockShield Banner](https://github.com/MarkusZSehrhart/BlockShield-Anticheat-Hytale-/raw/main/images/banner.png)
 ![BlockShield Screenshot 1](https://github.com/MarkusZSehrhart/BlockShield-Anticheat-Hytale-/raw/main/images/screen1.png)
 ![BlockShield Screenshot 2](https://github.com/MarkusZSehrhart/BlockShield-Anticheat-Hytale-/raw/main/images/screen2.png)
 
