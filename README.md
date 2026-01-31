@@ -4,9 +4,9 @@
 
 ## Powerful Web Panel Showcase
 
-[![BlockShield Panel Screenshot 1](assets/panel-1.png)](https://blockshield.ac)
-[![BlockShield Panel Screenshot 2](assets/panel-2.png)](https://blockshield.ac)
-[![BlockShield Panel Screenshot 3](assets/panel-3.png)](https://blockshield.ac)
+![BlockShield Banner](https://github.com/MarkusZSehrhart/BlockShield-Anticheat-Hytale-/raw/main/images/banner.png)
+![BlockShield Screenshot 1](https://github.com/MarkusZSehrhart/BlockShield-Anticheat-Hytale-/raw/main/images/screen1.png)
+![BlockShield Screenshot 2](https://github.com/MarkusZSehrhart/BlockShield-Anticheat-Hytale-/raw/main/images/screen2.png)
 
 ## Get BlockShield
 
